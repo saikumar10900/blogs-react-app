@@ -1,5 +1,15 @@
-# Routing using react-router Part 3
-
+Routing using react-router
+- Routing
+  - react-router-dom
+- react-router-dom
+  - BrowserRouter
+  - Link
+  - Route
+  - Switch
+- API Calls
+  - Using fetch()
+- Third-Party Packages
+  - react-loader-spinner
 - Navigating to Specific Blog
   - using Path Parameters
 - Path Params
